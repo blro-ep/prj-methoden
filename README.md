@@ -28,9 +28,7 @@ Lean-Projektmanagement ist Bestandteil der Agile-Methode, die durch das Eliminie
 # Beispiele
 ## Microsoft -> Christian 
 
-Two well-known types are "Kanban" and "Last Planner System".
-
-The term Kanban comes from manufacturing but was adapted for software development by David Anderson when he was working at Microsoft in 2005 and inherited an underperforming maintenance team.[9] The success of the approach in that environment, led Anderson to experiment with Kanban in projects, with similarly positive results. As Anderson publicised his findings through talks and his book,[9] software developers began to experiment with Kanban and it is now one of the most widely used methods for managing agile software development projects.
+Ein Anwendungsbeispiel bei Microsoft war, dass sie die "One Microsoft" Initiative 2013 eingeführt haben. Das Ziel war es, Zusammenarbeit und Integration zwischen verschiedenen Geschäftsbereichen von Microsoft zu verbessern und Effizienz mit Innovationskraft zu steigern. Im Rahmen von dieser Initative wurde das Tradtionelle Managementmodell zugunsten von einem Flacheren, Teambasierten Ansatz aufgegeben. Die Prozesse und Verfahren sind vereinfacht worden, damit der Informationfluss erleichtert wird und die Entscheidungen schneller getroffen werden kann. Die Lean-Methodik hat Microsoft geholfen, ein agileres, flexiberes und effizienteres Unternehmen zu werden. Auch hat es geholfen, dass sie weiterhin bei der Spitze der Technoligiebranchen geblieben sind.
 
 ## Toyota -> Christian
 
