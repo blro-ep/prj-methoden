@@ -17,8 +17,6 @@ Standardisierung
 
 Just-in-Time Logistik
 
-<<<<<<< HEAD
-=======
 effektiv
 
 effizient
@@ -28,7 +26,6 @@ höchstem Tempo
 Was lasse ich weg?
 
 Was sind die wichtigsten Funktionen?
->>>>>>> 4aa63fae9a7def6656e9265b204f7332fa04341f
 
 
 Lean-Projektmanagement Methode ist eine agile Methode, welcher sich auf die Maximale Wertschöpfung von Kunde konzentriert. Dabei wird berücksichtigt, dass die Verschwendung auf ein Minimum reduziert wird. Das Ziel ist es, die Ressourcen effektiver zu ausnützen und Mehrwert für den Kunden zu schaffen. Die Basis besteht aus Teamarbeit, kontinuierliche Verbesserung sowie Flexibilität. Es betont die Bedeutung von klaren Zielen, Verantwortlichkeiten und Regelmässiger Kommunikation.
@@ -42,7 +39,7 @@ Lean-Projektmanagement Methode ist eine agile Methode, welcher sich auf die Maxi
 Lean-Projektmanagement ist Bestandteil der Agile-Methode, die durch das Eliminieren von unnötigen und überflüssigen Elementen bei der Projektarbeit zu einer Kundenwertsteigerung führt.
 
 ## Grundsätze des Lean-Projektmanagements
-<<<<<<< HEAD
+
 =======
 ![Grundsätze](./images/prj-mgmt-grundsaetze.png)
 
@@ -75,7 +72,7 @@ Der Ursprung der „Lean-Philosophie“ liegt im Bereich Logistik- und Produktio
 ## Swisscom -> Roger / Dany
 Lean Master 
 Erhebliche Veränderungen für die Mitarbeiter  nicht nur der Prozesse, sondern auch der Zuständigkeiten.
-<<<<<<< HEAD
+
 =======
 Kultur der kontinuierlichen Verbesserung
  Je komplexer & komplizierter unsere Abläufe, Systeme und Prozesse sind
@@ -86,7 +83,6 @@ Kultur der kontinuierlichen Verbesserung
 
 …weil unsere Kunden die Services/Produkte von Swisscom verstehen und einfach nutzen wollen.
 
->>>>>>> 4aa63fae9a7def6656e9265b204f7332fa04341f
 
 # Weitere well known Tools -> Wenn was gefunden wird.
 
@@ -121,7 +117,7 @@ Christian:
 Senkung des Lagerbestandes und des Personalaufwands kann zu Engpässen führen
 
 Belastung und der Stress zunehmen,
-<<<<<<< HEAD
+
 zu großen Druck kommt, wenn keine Fehler mehr erlaubt sin
 
 =======
