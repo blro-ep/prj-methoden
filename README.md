@@ -2,18 +2,31 @@ Uebersicht
 
 
 # Was ist Lean : -> alle Stichworte
+
 schlank
+
 Zufriedenheit / Bedürfnisse der Kunden.
+
 niedrigen Kosten.
+
 «Einfachheit»
+
 in kürzester Zeit
+
 Standardisierung
+
 Just-in-Time Logistik
+
 effektiv
+
 effizient
+
 höchstem Tempo
+
 Was lasse ich weg?
+
 Was sind die wichtigsten Funktionen?
+
 
 Lean-Projektmanagement Methode ist eine agile Methode, welcher sich auf die Maximale Wertschöpfung von Kunde konzentriert. Dabei wird berücksichtigt, dass die Verschwendung auf ein Minimum reduziert wird. Das Ziel ist es, die Ressourcen effektiver zu ausnützen und Mehrwert für den Kunden zu schaffen. Die Basis besteht aus Teamarbeit, kontinuierliche Verbesserung sowie Flexibilität. Es betont die Bedeutung von klaren Zielen, Verantwortlichkeiten und Regelmässiger Kommunikation.
 
@@ -82,16 +95,22 @@ Kultur der kontinuierlichen Verbesserung
  Je komplexer & komplizierter unsere Abläufe, Systeme und Prozesse sind
 
  Why Lean? 
+
 …weil wir Swisscom für uns als Mitarbeitende einfacher & effizienter machen wollen und gleichzeitig unnötige Kosten sparen.
+
 …weil unsere Kunden die Services/Produkte von Swisscom verstehen und einfach nutzen wollen.
 
 
 # Weitere well known Tools -> Wenn was gefunden wird.
 
 Kaizen / KVP
+
 Muda, Mura, Muri (Toyota 3M Modell)
+
 Jidoka
+
 Hoshin Kanri
+
 Gemba
 
 
@@ -113,8 +132,11 @@ Christian:
 
 # Lean Nachteile -> Alle 
 Senkung des Lagerbestandes und des Personalaufwands kann zu Engpässen führen
+
 Belastung und der Stress zunehmen,
-zu großen Druck kommt, wenn keine Fehler mehr erlaubt sin
+
+zu großen Druck kommt, wenn keine Fehler mehr erlaubt sind
+
 Verbesserung erfordert ständige Anpassungen
 
 
