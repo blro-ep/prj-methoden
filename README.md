@@ -12,6 +12,7 @@ Uebersicht
 
 # Lean Projekt management -> Roger
 
+
 # Lean Mindset -> Roger
 
 # Beispiele
