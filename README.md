@@ -13,7 +13,7 @@
 # Lean Management 
  Lean Management ist eine Unternehmensphilosophie! 
  
- Effektive und effiziente Gestaltung der Prozesse mit dem Kunden Bedürfniss im Mittelpunkt.
+ Effektive und effiziente Gestaltung der Prozesse ohne Verschwenung, mit dem Kunden Bedürfniss im Mittelpunkt.
 
 **Sicht des Kunden**
 - Erfüllung des Kundenwunsches
