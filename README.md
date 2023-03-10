@@ -34,6 +34,19 @@ Lean-Projektmanagement Methode ist eine agile Methode, welcher sich auf die Maxi
 
 
 # Lean Management -> Dany
+überflüssige Tätigkeiten (Verschwendung, japanisch „muda“) zu vermeiden
+
+Sicht des Kunden
+
+Erfüllung des Kundenwunsches
+Qualität
+Verfügbarkeit
+Preis
+Sicht des Unternehmens
+
+profitabel
+Wettbewerbsfähigkeit
+schlanke Prozesse
 
 # Lean Projekt management -> Roger
 Lean-Projektmanagement ist Bestandteil der Agile-Methode, die durch das Eliminieren von unnötigen und überflüssigen Elementen bei der Projektarbeit zu einer Kundenwertsteigerung führt.
@@ -70,11 +83,17 @@ Microsoft hatte 2013 die "One Microsoft" Initiative eingeführt mit dem Ziel, di
 Der Ursprung der „Lean-Philosophie“ liegt im Bereich Logistik- und Produktionsmanagement. Ende der 40er Jahre setzte Toyota die Lean Production ein, um Prozesse zu streichen, die keinen Wert für das Endprodukt haben. Die Umstellung war auf die JIT-Produktion umgestellt (Just-In-Time Produktion). Anstatt dass man grosse Lagerbestände hat und die Engpässe in der Produktion abfedert, werden die Materialien und Komponenten nur bei Notwendigkeit geliefert. Das reduziert die Lagerkosten und Verschwendung und hat eine höhere Produktions-Effizienz. Diese Methode mit der Lean-Projektmanagement Methode hat dank der andauernden Innovation und Effizienzsteigerung zu einer neuen Kultur geführt. Somit ist Toyota zu einem der Effizientesten und erfolgreichsten Automobilhersteller geworden auf der Welt.
 
 ## Swisscom -> Roger / Dany
-Lean Master 
-Erhebliche Veränderungen für die Mitarbeiter  nicht nur der Prozesse, sondern auch der Zuständigkeiten.
+Seit 10 Jahren setzt Swisscom auf die Lean Philosophie
 
-=======
+Lean Master
+- ineffiziente Prozesse
+- Abgleich Sitzungen
+- Wartezeiten
+- Nur das nötigste Informiert
+
+
 Kultur der kontinuierlichen Verbesserung
+
  Je komplexer & komplizierter unsere Abläufe, Systeme und Prozesse sind
 
  Why Lean? 
@@ -123,11 +142,6 @@ zu großen Druck kommt, wenn keine Fehler mehr erlaubt sin
 =======
 
 zu großen Druck kommt, wenn keine Fehler mehr erlaubt sind
-
-Verbesserung erfordert ständige Anpassungen
->>>>>>> 4aa63fae9a7def6656e9265b204f7332fa04341f
-
-
 
 Christian (Potenzielle Nachteile / Risiken): 
 - Schwere Implementage
