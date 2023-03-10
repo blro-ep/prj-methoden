@@ -51,6 +51,24 @@ Gemba
 # Lean Vorteile -> Alle 
 
 
+
+Christian: 
+- Effizienz kann gesteigert werden
+- Kosten werden Reduziert
+- Qualität wird verbessert 
+- Kundenzufriedenheit steigt
+- Man ist Flexibler Unterwegs
+- Wettbewerbsvorteil
+- Die Mitarbeiter Beteiligen sich
+
 # Lean Nachteile -> Alle 
 
 
+
+
+Christian (Potenzielle Nachteile / Risiken): 
+- Schwere Implementage
+- Kürzere Lieferzeiten
+- Abbau von Personal
+- Weniger Flexibilität
+- Übermässiger Druck
