@@ -29,7 +29,7 @@ The term Kanban comes from manufacturing but was adapted for software developmen
 
 ## Toyota -> Christian
 
-Der Ursprung der „Lean-Philosophie“ liegt im Bereich Logistik- und Produktionsmanagement. Ende der 40er Jahre setzte Toyota die Lean Production ein, um Prozesse zu streichen, die keinen Wert für das Endprodukt haben. Mit dem historischen Hintergrund erklären sich auch die japanischen Namen vieler Lean-Management-Methoden.
+Der Ursprung der „Lean-Philosophie“ liegt im Bereich Logistik- und Produktionsmanagement. Ende der 40er Jahre setzte Toyota die Lean Production ein, um Prozesse zu streichen, die keinen Wert für das Endprodukt haben. Die Umstellung war auf die JIT-Produktion umgestellt (Just-In-Time Produktion). Anstatt dass man grosse Lagerbestände hat und die Engpässe in der Produktion abfedert, werden die Materialien und Komponenten nur bei Notwendigkeit geliefert. Das reduziert die Lagerkosten und Verschwendung und hat eine höhere Produktions-Effizienz. Diese Methode mit der Lean-Projektmanagement Methode hat dank der andauernden Innovation und Effizienzsteigerung zu einer neuen Kultur geführt. Somit ist Toyota zu einem der Effizientesten und erfolgreichsten Automobilhersteller geworden auf der Welt.
 
 ## Swisscom -> Roger / Dany
 
