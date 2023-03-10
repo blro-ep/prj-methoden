@@ -1,4 +1,4 @@
-# Was ist Lean :
+# Was ist Lean
 
 - schlank
 - Einfachheit / in kürzester Zeit
@@ -10,7 +10,7 @@
 - aufs wesentliche reduziert / Verschwendung vermeiden
 - unnötige arbeiten und ineffizient prozesse eliminieren
 
-# Lean Management -> Dany
+# Lean Management 
  !! Lean Management optimises processes by reducing time spent on non-value-added tasks
 
 **Sicht des Kunden**
@@ -31,7 +31,7 @@ Lean-Projektmanagement ist Bestandteil der Agile-Methode, die durch das Eliminie
 
 ![Grundsätze](./images/prj-mgmt-grundsaetze.png)
 
-- Beispiel 
+  !! Beispiel !! 
 
 ### Wert identifizieren
 
@@ -54,12 +54,13 @@ Somit können nicht optimierte / ineffiziente Prozesse identifiziert und optimie
 Ende der 40er setzte Toyota die Lean Methodik ein. Man hat auf JIT-Produktion (Just-In-Time Produktion). Statt grosse Lagerbestände wurde nur auf das notwendige beschränkt. 
 Somit konnte man Verschwenung vermeiden und Effizienz steigern. Dank dieser Methode wurde Toyota zu einem der Effizientesten und erfolgreichsten Automobilhersteller der Welt.
 
-3M kurz beschrieben = TPS Toyota product System -> (Toyota 3M Modell)
+ !! 3M kurz beschrieben = TPS Toyota product System -> (Toyota 3M Modell) !!
 
 ## Microsoft
 
+!!
 Lean Methode Kanban comes from manufacturing but was adapted for software development by David Anderson when he was working at Microsoft in 2005 and inherited an underperforming maintenance team
-software developers began to experiment with Kanban and it is now one of the most widely used methods for managing agile software development projects.
+software developers began to experiment with Kanban and it is now one of the most widely used methods for managing agile software development projects. !!
 
 Microsoft hatte 2013 die "One Microsoft" Initiative eingeführt mit dem Ziel, die Geschäftsbereiche zu verbesser und Effizienter werden. Diese Methode hat geholfen, dass Microsoft ein effizienteres und flexibles Unternehmen zu werden und dank dieser Methodik sind sie noch immer an der Spitze geblieben in der Technologiebranche.
 
