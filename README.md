@@ -12,7 +12,7 @@ Uebersicht
 
 # Lean Projekt management -> Roger
 
-# Lean Mindset 
+# Lean Mindset -> Roger
 
 # Beispiele
 ## Microsoft -> Christian 
