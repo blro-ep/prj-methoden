@@ -66,7 +66,7 @@ Microsoft hatte 2013 die "One Microsoft" Initiative eingeführt mit dem Ziel, di
 
 ## Toyota -> Christian
 
-Der Ursprung der „Lean-Philosophie“ liegt im Bereich Logistik- und Produktionsmanagement. Ende der 40er Jahre setzte Toyota die Lean Production ein, um Prozesse zu streichen, die keinen Wert für das Endprodukt haben. Die Umstellung war auf die JIT-Produktion umgestellt (Just-In-Time Produktion). Anstatt dass man grosse Lagerbestände hat und die Engpässe in der Produktion abfedert, werden die Materialien und Komponenten nur bei Notwendigkeit geliefert. Das reduziert die Lagerkosten und Verschwendung und hat eine höhere Produktions-Effizienz. Diese Methode mit der Lean-Projektmanagement Methode hat dank der andauernden Innovation und Effizienzsteigerung zu einer neuen Kultur geführt. Somit ist Toyota zu einem der Effizientesten und erfolgreichsten Automobilhersteller geworden auf der Welt.
+Der Ursprung ist in Logistik- und Produktionsmanagement gekommen. Ende der 40er setzte Toyota diese Methodik ein. Man hat auf JIT-Produktion (Just-In-Time Produktion). Statt grosse Lagerbestände wurde nur auf das notwendige beschränkt. Somit konnte man Verschwenung vermeiden und Effizienz steigern. Dank dieser Methode wurde Toyota zu einem der Effizientesten und erfolgreichsten Automobilhersteller der Welt.
 
 ## Swisscom -> Roger / Dany
 Seit 10 Jahren setzt Swisscom auf die Lean Philosophie
