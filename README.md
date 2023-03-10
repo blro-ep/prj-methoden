@@ -11,7 +11,9 @@
 - unnötige arbeiten und ineffizient prozesse eliminieren
 
 # Lean Management 
- !! Lean Management optimises processes by reducing time spent on non-value-added tasks
+ Lean Management ist eine Unternehmensphilosophie! 
+ 
+ Effektive und effiziente Gestaltung der Prozesse mit dem Kunden Bedürfniss im Mittelpunkt.
 
 **Sicht des Kunden**
 - Erfüllung des Kundenwunsches
