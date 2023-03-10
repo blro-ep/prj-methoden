@@ -41,7 +41,6 @@ Lean-Projektmanagement ist Bestandteil der Agile-Methode, die durch das Eliminie
 
 ## Grundsätze des Lean-Projektmanagements
 
-=======
 ![Grundsätze](./images/prj-mgmt-grundsaetze.png)
 
 ### Wert identifizieren
