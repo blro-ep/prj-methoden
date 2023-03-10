@@ -3,12 +3,13 @@ Uebersicht
 
 # Was ist Lean : -> alle Stichworte
 schlank
-schlank
+Zufriedenheit / Bedürfnisse der Kunden.
+niedrigen Kosten.
 «Einfachheit»
 in kürzester Zeit
 Standardisierung
 Just-in-Time Logistik
-die Bedürfnisse der Kunden.
+
 
 Lean-Projektmanagement Methode ist eine agile Methode, welcher sich auf die Maximale Wertschöpfung von Kunde konzentriert. Dabei wird berücksichtigt, dass die Verschwendung auf ein Minimum reduziert wird. Das Ziel ist es, die Ressourcen effektiver zu ausnützen und Mehrwert für den Kunden zu schaffen. Die Basis besteht aus Teamarbeit, kontinuierliche Verbesserung sowie Flexibilität. Es betont die Bedeutung von klaren Zielen, Verantwortlichkeiten und Regelmässiger Kommunikation.
 
