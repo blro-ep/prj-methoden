@@ -56,8 +56,6 @@ Ist geklärt für wen das Produkt / Dienstleistung erstellt wird, kann dies best
 Mit der Wertstromübersicht wird der aktuelle Workflow dem idealen Worklow gegenübergestellt (Von der Projektinitiierung bis zum Projektschluss).
 Druch den Vergleich können nicht optimierte Prozess in jeder Projekt-Phase identifiziert werden. 
 Somit können nicht optimierte / ineffiziente Prozesse identifiziert und optimiert werden.
->>>>>>> 4aa63fae9a7def6656e9265b204f7332fa04341f
-
 
 # Lean Mindset -> Roger
 
