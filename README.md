@@ -11,6 +11,9 @@ Uebersicht
 # Lean Management -> Dany
 
 # Lean Projekt management -> Roger
+Lean-Projektmanagement ist Bestandteil der Agile-Methode, die durch das Eliminieren von unnötigen und überflüssigen Elementen bei der Projektarbeit zu einer Kundenwertsteigerung führt.
+
+## Grundsätze des Lean-Projektmanagements
 
 
 # Lean Mindset -> Roger
