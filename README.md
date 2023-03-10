@@ -19,6 +19,18 @@ Lean-Projektmanagement Methode ist eine agile Methode, welcher sich auf die Maxi
 
 
 # Lean Management -> Dany
+ überflüssige Tätigkeiten (Verschwendung, japanisch „muda“) zu vermeiden
+
+Sicht des Kunden
+- Erfüllung des Kundenwunsches
+- Qualität 
+- Verfügbarkeit
+- Preis
+  
+Sicht des Unternehmens
+- profitabel 
+- Wettbewerbsfähigkeit
+- schlanke Prozesse 
 
 # Lean Projekt management -> Roger
 Lean-Projektmanagement ist Bestandteil der Agile-Methode, die durch das Eliminieren von unnötigen und überflüssigen Elementen bei der Projektarbeit zu einer Kundenwertsteigerung führt.
@@ -53,7 +65,12 @@ Der Ursprung der „Lean-Philosophie“ liegt im Bereich Logistik- und Produktio
 
 ## Swisscom -> Roger / Dany
 Seit 10 Jahren setzt Swisscom auf die Lean Philosophie
-Lean Master 
+
+Lean Master
+- ineffiziente Prozesse
+- Abgleich Sitzungen
+  
+  
 Erhebliche Veränderungen für die Mitarbeiter  nicht nur der Prozesse, sondern auch der Zuständigkeiten.
 Kultur der kontinuierlichen Verbesserung
  Je komplexer & komplizierter unsere Abläufe, Systeme und Prozesse sind
