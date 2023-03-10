@@ -36,6 +36,12 @@ Der Ursprung der „Lean-Philosophie“ liegt im Bereich Logistik- und Produktio
 
 # Weitere well known Tools -> Wenn was gefunden wird.
 
+Kaizen / KVP
+Muda, Mura, Muri (Toyota 3M Modell)
+Jidoka
+Hoshin Kanri
+Gemba
+
 
 
 # Lean Vorteile -> Alle 
