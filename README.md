@@ -22,6 +22,20 @@ Lean-Projektmanagement Methode ist eine agile Methode, welcher sich auf die Maxi
 Lean-Projektmanagement ist Bestandteil der Agile-Methode, die durch das Eliminieren von unnötigen und überflüssigen Elementen bei der Projektarbeit zu einer Kundenwertsteigerung führt.
 
 ## Grundsätze des Lean-Projektmanagements
+![Grundsätze](./images/prj-mgmt-grundsaetze.png)
+
+### Wert identifizieren
+Im ersten Schritt des Lean-Projektmanagement werden die Wertvorstellungen für das Produkt ermittelt. Klärung der Projektbeteiligten:
+
+- interner Beteiligter (verfolgt die Produktentwicklung, bsonderes Interesse am Projekterfolg)
+- externer Beteiligter (Kunde der das Pordukt / Dienstleistung erwirbt)
+
+Ist geklärt für wen das Produkt / Dienstleistung erstellt wird, kann dies bestmöglich an die Zielgruppe angepasst / optimiert werden.
+
+### Wertstrom abbilden
+Mit der Wertstromübersicht wird der aktuelle Workflow dem idealen Worklow gegenübergestellt (Von der Projektinitiierung bis zum Projektschluss).
+Druch den Vergleich können nicht optimierte Prozess in jeder Projekt-Phase identifiziert werden. 
+Somit können nicht optimierte / ineffiziente Prozesse identifiziert und optimiert werden.
 
 
 # Lean Mindset -> Roger
