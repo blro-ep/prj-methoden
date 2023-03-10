@@ -51,6 +51,8 @@ Mit der Wertstromübersicht wird der aktuelle Workflow dem idealen Worklow gegen
 Druch den Vergleich können nicht optimierte Prozess in jeder Projekt-Phase identifiziert werden. 
 Somit können nicht optimierte / ineffiziente Prozesse identifiziert und optimiert werden.
 
+### Workflow entwickeln
+
 
 # Lean Mindset -> Roger
 
