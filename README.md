@@ -1,4 +1,0 @@
-# prj-methoden
-
-test
-
