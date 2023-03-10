@@ -2,13 +2,33 @@ Uebersicht
 
 
 # Was ist Lean : -> alle Stichworte
+
 schlank
+
 Zufriedenheit / Bedürfnisse der Kunden.
+
 niedrigen Kosten.
+
 «Einfachheit»
+
 in kürzester Zeit
+
 Standardisierung
+
 Just-in-Time Logistik
+
+<<<<<<< HEAD
+=======
+effektiv
+
+effizient
+
+höchstem Tempo
+
+Was lasse ich weg?
+
+Was sind die wichtigsten Funktionen?
+>>>>>>> 4aa63fae9a7def6656e9265b204f7332fa04341f
 
 
 Lean-Projektmanagement Methode ist eine agile Methode, welcher sich auf die Maximale Wertschöpfung von Kunde konzentriert. Dabei wird berücksichtigt, dass die Verschwendung auf ein Minimum reduziert wird. Das Ziel ist es, die Ressourcen effektiver zu ausnützen und Mehrwert für den Kunden zu schaffen. Die Basis besteht aus Teamarbeit, kontinuierliche Verbesserung sowie Flexibilität. Es betont die Bedeutung von klaren Zielen, Verantwortlichkeiten und Regelmässiger Kommunikation.
@@ -22,6 +42,23 @@ Lean-Projektmanagement Methode ist eine agile Methode, welcher sich auf die Maxi
 Lean-Projektmanagement ist Bestandteil der Agile-Methode, die durch das Eliminieren von unnötigen und überflüssigen Elementen bei der Projektarbeit zu einer Kundenwertsteigerung führt.
 
 ## Grundsätze des Lean-Projektmanagements
+<<<<<<< HEAD
+=======
+![Grundsätze](./images/prj-mgmt-grundsaetze.png)
+
+### Wert identifizieren
+Im ersten Schritt des Lean-Projektmanagement werden die Wertvorstellungen für das Produkt ermittelt. Klärung der Projektbeteiligten:
+
+- interner Beteiligter (verfolgt die Produktentwicklung, bsonderes Interesse am Projekterfolg)
+- externer Beteiligter (Kunde der das Pordukt / Dienstleistung erwirbt)
+
+Ist geklärt für wen das Produkt / Dienstleistung erstellt wird, kann dies bestmöglich an die Zielgruppe angepasst / optimiert werden.
+
+### Wertstrom abbilden
+Mit der Wertstromübersicht wird der aktuelle Workflow dem idealen Worklow gegenübergestellt (Von der Projektinitiierung bis zum Projektschluss).
+Druch den Vergleich können nicht optimierte Prozess in jeder Projekt-Phase identifiziert werden. 
+Somit können nicht optimierte / ineffiziente Prozesse identifiziert und optimiert werden.
+>>>>>>> 4aa63fae9a7def6656e9265b204f7332fa04341f
 
 
 # Lean Mindset -> Roger
@@ -38,13 +75,29 @@ Der Ursprung der „Lean-Philosophie“ liegt im Bereich Logistik- und Produktio
 ## Swisscom -> Roger / Dany
 Lean Master 
 Erhebliche Veränderungen für die Mitarbeiter  nicht nur der Prozesse, sondern auch der Zuständigkeiten.
+<<<<<<< HEAD
+=======
+Kultur der kontinuierlichen Verbesserung
+ Je komplexer & komplizierter unsere Abläufe, Systeme und Prozesse sind
+
+ Why Lean? 
+
+…weil wir Swisscom für uns als Mitarbeitende einfacher & effizienter machen wollen und gleichzeitig unnötige Kosten sparen.
+
+…weil unsere Kunden die Services/Produkte von Swisscom verstehen und einfach nutzen wollen.
+
+>>>>>>> 4aa63fae9a7def6656e9265b204f7332fa04341f
 
 # Weitere well known Tools -> Wenn was gefunden wird.
 
 Kaizen / KVP
+
 Muda, Mura, Muri (Toyota 3M Modell)
+
 Jidoka
+
 Hoshin Kanri
+
 Gemba
 
 
@@ -66,9 +119,17 @@ Christian:
 
 # Lean Nachteile -> Alle 
 Senkung des Lagerbestandes und des Personalaufwands kann zu Engpässen führen
+
 Belastung und der Stress zunehmen,
+<<<<<<< HEAD
 zu großen Druck kommt, wenn keine Fehler mehr erlaubt sin
 
+=======
+
+zu großen Druck kommt, wenn keine Fehler mehr erlaubt sind
+
+Verbesserung erfordert ständige Anpassungen
+>>>>>>> 4aa63fae9a7def6656e9265b204f7332fa04341f
 
 
 
