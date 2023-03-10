@@ -3,7 +3,7 @@ Uebersicht
 
 # Was ist Lean :
 
-
+«Einfachheit»
 
 # Lean Concept 
 
@@ -21,17 +21,15 @@ The term Kanban comes from manufacturing but was adapted for software developmen
 
 # Toyota 
 
-# Swisscom 
-
-
-
-
-Nicht zuletzt über «Einfachheit» im Verständnis & in der Anwendung
-
 Der Ursprung der „Lean-Philosophie“ liegt im Bereich Logistik- und Produktionsmanagement. Ende der 40er Jahre setzte Toyota die Lean Production ein, um Prozesse zu streichen, die keinen Wert für das Endprodukt haben. Mit dem historischen Hintergrund erklären sich auch die japanischen Namen vieler Lean-Management-Methoden.
 
-Schlanke Prozesse. Dicke Erfolge. Fit für Lean Management
+# Swisscom 
 
-In general, a project can be said to be Lean if it applies the principles of lean thinking
+# Weitere well known lean types ?
 
-Kanban
+# Lean Vorteile 
+
+
+# Lean Nachteile
+
+
