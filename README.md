@@ -1,131 +1,87 @@
-Uebersicht
-
-
-# Was ist Lean : -> alle Stichworte
+# Was ist Lean :
 
 - schlank
-- Zufriedenheit / Bedürfnisse der Kunden.
-- niedrigen Kosten.
-- Einfachheit
-- in kürzester Zeit
+- Einfachheit / in kürzester Zeit
+- Bedürfnisse der Kunden
+- niedrigen Kosten
 - Standardisierung
-- Just-in-Time Logistik
-- effektiv
-- höchstem Tempo
-- Was lasse ich weg?
-- Was sind die wichtigsten Funktionen?
-
-Lean-Projektmanagement Methode ist eine agile Methode, welcher sich auf die Maximale Wertschöpfung von Kunde konzentriert. Dabei wird berücksichtigt, dass die Verschwendung auf ein Minimum reduziert wird. Das Ziel ist es, die Ressourcen effektiver zu ausnützen und Mehrwert für den Kunden zu schaffen. Die Basis besteht aus Teamarbeit, kontinuierliche Verbesserung sowie Flexibilität. Es betont die Bedeutung von klaren Zielen, Verantwortlichkeiten und Regelmässiger Kommunikation.
-
-# Lean Concept -> Dany 
-
+- effizienz
+- höchstes Tempo
+- aufs wesentliche reduziert / Verschwendung vermeiden
+- unnötige arbeiten und ineffizient prozesse eliminieren
 
 # Lean Management -> Dany
-überflüssige Tätigkeiten (Verschwendung, japanisch „muda“) zu vermeiden
+ !! Lean Management optimises processes by reducing time spent on non-value-added tasks
 
-Sicht des Kunden
-
+**Sicht des Kunden**
 - Erfüllung des Kundenwunsches
 - Qualität
 - Verfügbarkeit
 - Preis
 
-Sicht des Unternehmens
-
+**Sicht des Unternehmens**
 - profitabel
 - Wettbewerbsfähigkeit
 - schlanke Prozesse
 
-# Lean Projekt management -> Roger
+# Lean Projekt management 
 Lean-Projektmanagement ist Bestandteil der Agile-Methode, die durch das Eliminieren von unnötigen und überflüssigen Elementen bei der Projektarbeit zu einer Kundenwertsteigerung führt.
 
-## Grundsätze des Lean-Projektmanagements
+**Grundsätze des Lean-Projektmanagements**
 
 ![Grundsätze](./images/prj-mgmt-grundsaetze.png)
 
+- Beispiel 
+
 ### Wert identifizieren
-Im ersten Schritt des Lean-Projektmanagement werden die Wertvorstellungen für das Produkt ermittelt. Klärung der Projektbeteiligten:
 
-- interner Beteiligter (verfolgt die Produktentwicklung, bsonderes Interesse am Projekterfolg)
-- externer Beteiligter (Kunde der das Pordukt / Dienstleistung erwirbt)
+- interner Beteiligter (Unternehmen) / Externer Beteiligter (Kunde)
+- Worklow entwickeln und auf Zielgruppe ausgerichted. -> Bedürfinss vom Kunde
+- Auf Nachfrage ausrichten
+- An Verbesserungen arbeiten
+- Wiederholend 
 
-Ist geklärt für wen das Produkt / Dienstleistung erstellt wird, kann dies bestmöglich an die Zielgruppe angepasst / optimiert werden.
 
 ### Wertstrom abbilden
 Mit der Wertstromübersicht wird der aktuelle Workflow dem idealen Worklow gegenübergestellt (Von der Projektinitiierung bis zum Projektschluss).
 Druch den Vergleich können nicht optimierte Prozess in jeder Projekt-Phase identifiziert werden. 
 Somit können nicht optimierte / ineffiziente Prozesse identifiziert und optimiert werden.
 
-### Workflow entwickeln
-
-### Auf Nachfrage ausrichten
-
-### An Verbesserungen arbeiten
-
-# Lean Mindset -> Roger
-
 # Beispiele
-## Microsoft -> Christian 
+
+## Toyota
+
+Ende der 40er setzte Toyota die Lean Methodik ein. Man hat auf JIT-Produktion (Just-In-Time Produktion). Statt grosse Lagerbestände wurde nur auf das notwendige beschränkt. 
+Somit konnte man Verschwenung vermeiden und Effizienz steigern. Dank dieser Methode wurde Toyota zu einem der Effizientesten und erfolgreichsten Automobilhersteller der Welt.
+
+3M kurz beschrieben = TPS Toyota product System -> (Toyota 3M Modell)
+
+## Microsoft
+
+Lean Methode Kanban comes from manufacturing but was adapted for software development by David Anderson when he was working at Microsoft in 2005 and inherited an underperforming maintenance team
+software developers began to experiment with Kanban and it is now one of the most widely used methods for managing agile software development projects.
 
 Microsoft hatte 2013 die "One Microsoft" Initiative eingeführt mit dem Ziel, die Geschäftsbereiche zu verbesser und Effizienter werden. Diese Methode hat geholfen, dass Microsoft ein effizienteres und flexibles Unternehmen zu werden und dank dieser Methodik sind sie noch immer an der Spitze geblieben in der Technologiebranche.
 
-## Toyota -> Christian
+## Swisscom
+**Seit 10 Jahren setzt Swisscom auf die Lean Philosophie**
 
-Der Ursprung ist in Logistik- und Produktionsmanagement gekommen. Ende der 40er setzte Toyota diese Methodik ein. Man hat auf JIT-Produktion (Just-In-Time Produktion). Statt grosse Lagerbestände wurde nur auf das notwendige beschränkt. Somit konnte man Verschwenung vermeiden und Effizienz steigern. Dank dieser Methode wurde Toyota zu einem der Effizientesten und erfolgreichsten Automobilhersteller der Welt.
+- Von 6 verschiedenen Ticketing System -> zu Einer Platform (ITSM) -> zu vereinfacht (Jira) 
+- Abgleich Probleme (daily) Informations overload -> kleines Team
+- Lean Master / Scrum Master  -> Prozess optimieren / Schnittstelle Auftraggeber -> Entwickler / unterstützung Team 
+- ineffiziente Prozesse / Wartezeiten
 
-## Swisscom -> Roger / Dany
-Seit 10 Jahren setzt Swisscom auf die Lean Philosophie
-
-Lean Master
-- ineffiziente Prozesse
-- Abgleich Sitzungen
-- Wartezeiten
-- Nur das nötigste Informiert
-
-
-Kultur der kontinuierlichen Verbesserung
-
- Je komplexer & komplizierter unsere Abläufe, Systeme und Prozesse sind
-
- Why Lean? 
-
-- …weil wir Swisscom für uns als Mitarbeitende einfacher & effizienter machen wollen und gleichzeitig unnötige Kosten sparen.
-- …weil unsere Kunden die Services/Produkte von Swisscom verstehen und einfach nutzen wollen.
-
-
-# Weitere well known Tools -> Wenn was gefunden wird.
-
-- Kaizen / KVP
-- Muda, Mura, Muri (Toyota 3M Modell)
-- Jidoka
-- Hoshin Kanri
-- Gemba
-
-
-# Lean Vorteile -> Alle 
-- reduziert und die Belegschaft konzentriert sich auf solche Aktivitäten, die Wert schaffen
-- Mitarbeiter alleine auf die Wertschöpfung fokussieren
-
-
-
-Christian: 
-- Effizienz kann gesteigert werden
-- Kosten werden Reduziert
-- Qualität wird verbessert 
-- Kundenzufriedenheit steigt
-- Man ist Flexibler Unterwegs
+# Lean Vorteile
+- Effizienz
+- Kosten 
+- Qualität  
+- Kundenzufriedenheit 
+- Flexibilität
 - Wettbewerbsvorteil
-- Die Mitarbeiter Beteiligen sich
 
-# Lean Nachteile -> Alle 
+# Lean Nachteile
+- Supply chain -Maske -Medikament -Automobilindustrie -Computerchips 
 - Senkung des Lagerbestandes und des Personalaufwands kann zu Engpässen führen
-- Belastung und der Stress zunehmen,
-- zu großen Druck kommt, wenn keine Fehler mehr erlaubt sin
-- zu großen Druck kommt, wenn keine Fehler mehr erlaubt sind
-
-Christian (Potenzielle Nachteile / Risiken): 
-- Schwere Implementage
-- Kürzere Lieferzeiten
-- Abbau von Personal
+- Weniger Spielraum durch optimierung
 - Weniger Flexibilität
-- Übermässiger Druck
+- Produktvielfalt
