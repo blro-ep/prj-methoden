@@ -28,7 +28,7 @@ Der Ursprung der „Lean-Philosophie“ liegt im Bereich Logistik- und Produktio
 ## Swisscom 
 
 
-# Weitere well known lean types ?
+# Weitere well known Tools 
 
 # Lean Vorteile 
 
