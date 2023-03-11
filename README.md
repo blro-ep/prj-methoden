@@ -56,13 +56,22 @@ Somit können nicht optimierte / ineffiziente Prozesse identifiziert und optimie
 Ende der 40er setzte Toyota die Lean Methodik ein. Man hat auf JIT-Produktion (Just-In-Time Produktion). Statt grosse Lagerbestände wurde nur auf das notwendige beschränkt. 
 Somit konnte man Verschwenung vermeiden und Effizienz steigern. Dank dieser Methode wurde Toyota zu einem der Effizientesten und erfolgreichsten Automobilhersteller der Welt.
 
- !! 3M kurz beschrieben = TPS Toyota product System -> (Toyota 3M Modell) !!
+
+### Verschwendung (Muda)
+
+Sind alles Aktivitäten, die keinen Mehrwert haben und somit als Verschwendung gelten.
+
+ ### Abweichung (Mura)
+
+ Das sind unausgeglichene Verluste wodurch als Folge einige Ressourcen überlastet sind und andere unterlastet.
+
+ ### Überlastung (Muri)
+
+ Dies ist auch ein Verlust, weil alles Überbeanspruchung verlangt. Hier ist das Risiko dass man so unter viel mehr Druck steht.
 
 ## Microsoft
 
-!!
-Lean Methode Kanban comes from manufacturing but was adapted for software development by David Anderson when he was working at Microsoft in 2005 and inherited an underperforming maintenance team
-software developers began to experiment with Kanban and it is now one of the most widely used methods for managing agile software development projects. !!
+Die Lean-Methode stammt aus der Fertigung, wurde aber von David Anderson für die Softwareentwicklung angepasst, als er 2005 bei Microsoft arbeitete und ein leistungsschwaches Wartungsteam erbte. Softwareentwickler begannen, mit Lean zu experimentieren. Und heute ist es eine der am weitesten verbreiteten Methoden für das Management agiler Softwareentwicklungsprojekte.
 
 Microsoft hatte 2013 die "One Microsoft" Initiative eingeführt mit dem Ziel, die Geschäftsbereiche zu verbesser und Effizienter werden. Diese Methode hat geholfen, dass Microsoft ein effizienteres und flexibles Unternehmen zu werden und dank dieser Methodik sind sie noch immer an der Spitze geblieben in der Technologiebranche.
 
