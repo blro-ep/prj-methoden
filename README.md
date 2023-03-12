@@ -34,7 +34,21 @@ Mehrwert für den Kunden schaffen und Verschwendung minimieren.
 
 ![Grundsätze](./images/prj-mgmt-grundsaetze.png)
 
-  !! Beispiel !! 
+**Beispiel Supportprozess"**
+- Was sind die Anforderungen des Kunden bezüglich Support
+  - Support gemäss Kundenvereinbarung
+- Wie ist der Supportprozess heute, wie soll dieser in Zukunft aussehen
+  - Eingangskanäle reduziert (Postfächer)
+- Massnahmen definieren, um den Soll Zustand zu erreichen
+  - Eingangkanäle reduzieren
+- Einzelen Steps auf Kunden ausgerichtet
+  - Automatisierung 
+- KVP
+  - Team Regeln für Postfach handling
+  - Unnötige Emails reduziert
+  - Aufgaben automatisiert
+  - Dokumentation intern aufgebaut
+  - Templates erstellt
 
 1. Wert identifizieren:  
 *Nutzen aus Sicht des Kunden. Bedürfnisse exakt auf Kunde abstimmen um grösst möglichen Wert aus dessen Sicht zu erreichen.*
