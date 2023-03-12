@@ -28,17 +28,23 @@
 # Lean Projekt management 
 Lean-Projektmanagement ist die Anwendung der Lean-Prinzipien auf das Projektmanagement. 
 Die zwei wesentlichen Schwerpunkte sind: 
-Mehrwert für den Kunden schaffen und Verschwendung minimieren.
+- Mehrwert für den Kunden schaffen 
+- Verschwendung minimieren.
 
-**Kernprinzipien des Lean Managements**
+Mögliche Methoden sind:
+- 5s 
+- 3Mu
+- PDCA
 
-![Grundsätze](./images/prj-mgmt-grundsaetze.png)
+**Kernprinzipien der 5S Methode**
 
-**Beispiel Supportprozess"**
-- Was sind die Anforderungen des Kunden bezüglich Support
-  - Support gemäss Kundenvereinbarung
-- Wie ist der Supportprozess heute, wie soll dieser in Zukunft aussehen
-  - Eingangskanäle reduziert (Postfächer)
+![Grundsätze](./images/5S.png)
+
+**Beispiel Supportprozess Swisscom**
+- Was sind die Anforderungen des Kunden bezüglich Support?
+  - Support gemäss Kundenvereinbarung.
+- Wie ist der Supportprozess heute, wie soll dieser in Zukunft aussehen?
+  - Eingangskanäle reduziert (Postfächer).
 - Massnahmen definieren, um den Soll Zustand zu erreichen
   - Eingangkanäle reduzieren
 - Einzelen Steps auf Kunden ausgerichtet
@@ -50,19 +56,19 @@ Mehrwert für den Kunden schaffen und Verschwendung minimieren.
   - Dokumentation intern aufgebaut
   - Templates erstellt
 
-1. Wert identifizieren:  
+1. Seiri -Sortieren:  
 *Nutzen aus Sicht des Kunden. Bedürfnisse exakt auf Kunde abstimmen um grösst möglichen Wert aus dessen Sicht zu erreichen.*
 
-2. Wertstrom abbilden:  
-*Der Wertstrom beschreibt alle Aktivitäten, die zur Herstellung des Produkts oder der Dienstleistung erforderlich sind.*
+2. Seiton - Sichtbare Ordnung schaffen:  
+*Die Wertstromanalyse beschreibt alle Aktivitäten, die zur Herstellung des Produkts oder der Dienstleistung erforderlich sind (ist / soll).*
 
-3. Workflow entwickeln  
-*Mit Flussprinzip ist gemeint, den gesamten Durchlauf zu optimieren, und nicht nur einzelne Abschnitte zu betrachten. Der Schwerpunkt liegt auf den Engpässen innerhalb des Gesamtablaufs.*
+3. Seiso - Säubern  
+*Den gesamten Durchlauf optimieren,  nicht nur einzelne Abschnitte betrachten. Der Schwerpunkt liegt auf den Engpässen innerhalb des Gesamtablaufs.*
 
-4. Auf Nachfrage ausrichten  
+4. Seiketsu - Standartisierung  
 *Der Kunden bestimmt den Takt unserer Arbeit, das entscheidende Kriterium ist der Kundenbedarf.*
 
-5. An Verbesserungen arbeiten  
+5. Shitsuke - Ständig verbessern 
 *Gedanke des kontinuierlichen Verbesserungsprozesses, da es immer wieder Formen der Verschwendung und Ansätze zur Verbesserung geben wird.*
 
 # Beispiele
