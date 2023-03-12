@@ -1,5 +1,4 @@
 # Was ist Lean
-
 - schlank
 - Einfachheit / in kürzester Zeit
 - Bedürfnisse der Kunden
@@ -38,19 +37,19 @@ Mehrwert für den Kunden schaffen und Verschwendung minimieren.
   !! Beispiel !! 
 
 1. Wert identifizieren:  
-Nutzen aus Sicht des Kunden. Bedürfnisse exakt auf Kunde abstimmen um grösst möglichen Wert aus dessen Sicht zu erreichen. 
+*Nutzen aus Sicht des Kunden. Bedürfnisse exakt auf Kunde abstimmen um grösst möglichen Wert aus dessen Sicht zu erreichen.*
 
 2. Wertstrom abbilden:  
-Der Wertstrom beschreibt alle Aktivitäten, die zur Herstellung des Produkts oder der Dienstleistung erforderlich sind.
+*Der Wertstrom beschreibt alle Aktivitäten, die zur Herstellung des Produkts oder der Dienstleistung erforderlich sind.*
 
 3. Workflow entwickeln  
-Mit Flussprinzip ist gemeint, den gesamten Durchlauf zu optimieren, und nicht nur einzelne Abschnitte zu betrachten. Der Schwerpunkt liegt auf den Engpässen innerhalb des Gesamtablaufs.
+*Mit Flussprinzip ist gemeint, den gesamten Durchlauf zu optimieren, und nicht nur einzelne Abschnitte zu betrachten. Der Schwerpunkt liegt auf den Engpässen innerhalb des Gesamtablaufs.*
 
 4. Auf Nachfrage ausrichten  
-Der Kunden bestimmt den Takt unserer Arbeit, das entscheidende Kriterium ist der Kundenbedarf.
+*Der Kunden bestimmt den Takt unserer Arbeit, das entscheidende Kriterium ist der Kundenbedarf.*
 
 5. An Verbesserungen arbeiten  
-Gedanke des kontinuierlichen Verbesserungsprozesses, da es immer wieder Formen der Verschwendung und Ansätze zur Verbesserung geben wird.
+*Gedanke des kontinuierlichen Verbesserungsprozesses, da es immer wieder Formen der Verschwendung und Ansätze zur Verbesserung geben wird.*
 
 # Beispiele
 
@@ -58,7 +57,6 @@ Gedanke des kontinuierlichen Verbesserungsprozesses, da es immer wieder Formen d
 
 Ende der 40er setzte Toyota die Lean Methodik ein. Man hat auf JIT-Produktion (Just-In-Time Produktion). Statt grosse Lagerbestände wurde nur auf das notwendige beschränkt. 
 Somit konnte man Verschwenung vermeiden und Effizienz steigern. Dank dieser Methode wurde Toyota zu einem der Effizientesten und erfolgreichsten Automobilhersteller der Welt.
-
 
 ### Verschwendung (Muda)
 
