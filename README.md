@@ -69,6 +69,8 @@ Sind alles Aktivitäten, die keinen Mehrwert haben und somit als Verschwendung g
 
  Dies ist auch ein Verlust, weil alles Überbeanspruchung verlangt. Hier ist das Risiko dass man so unter viel mehr Druck steht.
 
+ ![3M](./images/3M.png)
+
 ## Microsoft
 
 Die Lean-Methode stammt aus der Fertigung, wurde aber von David Anderson für die Softwareentwicklung angepasst, als er 2005 bei Microsoft arbeitete und ein leistungsschwaches Wartungsteam erbte. Softwareentwickler begannen, mit Lean zu experimentieren. Und heute ist es eine der am weitesten verbreiteten Methoden für das Management agiler Softwareentwicklungsprojekte.
