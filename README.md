@@ -27,27 +27,30 @@
 - schlanke Prozesse
 
 # Lean Projekt management 
-Lean-Projektmanagement ist Bestandteil der Agile-Methode, die durch das Eliminieren von unnötigen und überflüssigen Elementen bei der Projektarbeit zu einer Kundenwertsteigerung führt.
+Lean-Projektmanagement ist die Anwendung der Lean-Prinzipien auf das Projektmanagement. 
+Die zwei wesentlichen Schwerpunkte sind: 
+Mehrwert für den Kunden schaffen und Verschwendung minimieren.
 
-**Grundsätze des Lean-Projektmanagements**
+**Kernprinzipien des Lean Managements**
 
 ![Grundsätze](./images/prj-mgmt-grundsaetze.png)
 
   !! Beispiel !! 
 
-### Wert identifizieren
+1. Wert identifizieren:  
+Nutzen aus Sicht des Kunden. Bedürfnisse exakt auf Kunde abstimmen um grösst möglichen Wert aus dessen Sicht zu erreichen. 
 
-- interner Beteiligter (Unternehmen) / Externer Beteiligter (Kunde)
-- Worklow entwickeln und auf Zielgruppe ausgerichted. -> Bedürfinss vom Kunde
-- Auf Nachfrage ausrichten
-- An Verbesserungen arbeiten
-- Wiederholend 
+2. Wertstrom abbilden:  
+Der Wertstrom beschreibt alle Aktivitäten, die zur Herstellung des Produkts oder der Dienstleistung erforderlich sind.
 
+3. Workflow entwickeln  
+Mit Flussprinzip ist gemeint, den gesamten Durchlauf zu optimieren, und nicht nur einzelne Abschnitte zu betrachten. Der Schwerpunkt liegt auf den Engpässen innerhalb des Gesamtablaufs.
 
-### Wertstrom abbilden
-Mit der Wertstromübersicht wird der aktuelle Workflow dem idealen Worklow gegenübergestellt (Von der Projektinitiierung bis zum Projektschluss).
-Druch den Vergleich können nicht optimierte Prozess in jeder Projekt-Phase identifiziert werden. 
-Somit können nicht optimierte / ineffiziente Prozesse identifiziert und optimiert werden.
+4. Auf Nachfrage ausrichten  
+Der Kunden bestimmt den Takt unserer Arbeit, das entscheidende Kriterium ist der Kundenbedarf.
+
+5. An Verbesserungen arbeiten  
+Gedanke des kontinuierlichen Verbesserungsprozesses, da es immer wieder Formen der Verschwendung und Ansätze zur Verbesserung geben wird.
 
 # Beispiele
 
