@@ -10,9 +10,9 @@
 - unnötige arbeiten und ineffizient prozesse eliminieren
 
 # Lean Management 
- Lean Management ist eine Unternehmensphilosophie! 
+**Lean Management ist eine Unternehmensphilosophie!**
 
-**Bei der es um eine hocheffiziente Arbeitsorganisation, die alles Überflüssige reduziert oder weglässt.**
+Bei der es um eine hocheffiziente Arbeitsorganisation, die alles Überflüssige reduziert oder weglässt.
 
 **Sicht des Kunden**
 - Erfüllung des Kundenwunsches
